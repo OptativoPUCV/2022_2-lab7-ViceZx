@@ -30,3 +30,9 @@ Tue 11 Oct 2022 01:21:07 AM UTC:
  tests:  1|3
 total_score: 10/70
 722949c
+Tue 11 Oct 2022 01:22:29 AM UTC: 
+ heap.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ tests:  2|2
+total_score: 20/70
+75f756d
