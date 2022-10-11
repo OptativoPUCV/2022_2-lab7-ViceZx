@@ -24,3 +24,9 @@ heap.c:36:41: error: expected expression before ‘)’ token
       |                                         ^
 Compilation failed
 91a0c0a
+Tue 11 Oct 2022 01:21:07 AM UTC: 
+ heap.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  1|3
+total_score: 10/70
+722949c
